@@ -1,4 +1,7 @@
 
+# Example code from Pluralsight "Electron Fundamentals" course
+This is one of the exercise from the course that experiments with application menus.
+>For this application menu, we're not making a particular app, we're just experimenting with the application menus to get ideas on how we might use this in a future project. The application menu is that bar of dropdown menus that usually appears at the top of the screen or window. It commonly contains menu options like File, Edit or View. In Electron, it's called the Menu module. Let's try it out. Now every project that we make will need its own directory."
 
 # ipc-demo electron configuration commands
 1) npm init -y
