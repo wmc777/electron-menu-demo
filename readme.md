@@ -10,9 +10,10 @@ This is one of the exercise from the course that experiments with application me
 
 # git project setup commands
 1) git init
-2) git config --global user.name "[name]"
-3) git config --global color.ui auto
-4) git remote add origin git@github.com:wmc777/electron-menu-demo.git
+2) git config --global user.name "wmc777"
+3) git config --global user.emil "wmc777@outlook.com"
+4) git config --global color.ui auto
+5) git remote add origin git@github.com:wmc777/electron-menu-demo.git
 
 # git project workflow commands
 ### add changes
